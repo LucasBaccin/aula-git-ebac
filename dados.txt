@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Lucas
+-Profissão: Medico Veterinário
+-Cidade: Itajaí - SC
+-O que faz nas horas vaga: Passeio com a minha familia e eventualmente jogo videogame
+-Feedback sobre o curso Qualidade de Software: Estou bem satisfeito com o curso, objetivo e direto ao ponto, a tutoria do professor Fabio auxilia muito nesse mundo novo da programação
+-Feedback sobre a plataforma de estudo da EBAC: Até o momento nunca tive problemas com a plataforma, sendo simples de usar e bem intuitiva
 
 Obrigado!!!
 
